@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://larafade.github.io/al-folio/sitemap.xml
+Sitemap: https://larafade.github.io/sitemap.xml
